@@ -1,0 +1,10 @@
+{
+  "id": "ai-learning-companion",
+  "name": "AI Learning Companion",
+  "version": "1.0.0",
+  "minAppVersion": "1.4.0",
+  "description": "AI-powered learning companion with Teacher mode (Socratic method) and Student mode (Feynman technique)",
+  "author": "User",
+  "authorUrl": "",
+  "isDesktopOnly": false
+}
